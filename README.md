@@ -2,6 +2,11 @@
 
 Simple Windows permission cleanup helper.
 
+
+## Screenshot UI
+![SafeTakeown UI](Screenshot2026-04-28121919.png)
+
+
 ## Features
 
 - Take ownership (takeown)
