@@ -1,5 +1,0 @@
-D:\learn\code\C#\SafeTakeown\bin\Release\net10.0-windows\win-x64\publish\SafeTakeown.exe
-D:\learn\code\C#\SafeTakeown\bin\Release\net10.0-windows\win-x64\publish\SafeTakeown.dll
-D:\learn\code\C#\SafeTakeown\bin\Release\net10.0-windows\win-x64\publish\SafeTakeown.deps.json
-D:\learn\code\C#\SafeTakeown\bin\Release\net10.0-windows\win-x64\publish\SafeTakeown.runtimeconfig.json
-D:\learn\code\C#\SafeTakeown\bin\Release\net10.0-windows\win-x64\publish\SafeTakeown.pdb
