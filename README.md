@@ -30,8 +30,9 @@ SafeTakeown is intended for advanced users.
 Incorrect use can damage applications or Windows installations.
 
 ## Download
-
+[⬇ Download latest release](https://github.com/epinephren/SafeTakeown/releases/latest)
 See Releases.
+
 
 ## Author
 
