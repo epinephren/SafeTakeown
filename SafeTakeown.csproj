@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+<PropertyGroup>
+  <OutputType>WinExe</OutputType>
+  <TargetFramework>net10.0-windows</TargetFramework>
+  <UseWPF>true</UseWPF>
+  <Authors>Epi Nephren</Authors>
+  <Company>Epi Nephren</Company>
+  <Product>SafeTakeown</Product>
+  <Copyright>© Epi Nephren</Copyright>
+  <RepositoryUrl>https://epinephren.github.io</RepositoryUrl>
+  <ApplicationIcon>app.ico</ApplicationIcon>
+</PropertyGroup>
+<ItemGroup>
+  <Resource Include="app.ico" />
+</ItemGroup>
+  <ItemGroup>
+    <Page Update="BrowserChoiceWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <XamlRuntime>Wpf</XamlRuntime>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+
+</Project>

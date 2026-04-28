@@ -1,0 +1,34 @@
+﻿# SafeTakeown
+
+Simple Windows permission cleanup helper.
+
+## Features
+
+- Take ownership (takeown)
+- Fix permissions (icacls)
+- Safe delete (1-pass overwrite)
+- Delete on reboot
+- Recycle Bin repair
+- Path safety system (HardBlocked / ExpertOnly)
+
+## Philosophy
+
+- No hidden actions
+- No registry cleanup
+- No background services
+- Dry-run mindset
+- Clear logs
+
+## Warning
+
+SafeTakeown is intended for advanced users.  
+Incorrect use can damage applications or Windows installations.
+
+## Download
+
+See Releases.
+
+## Author
+
+Epi Nephren  
+https://epinephren.github.io
